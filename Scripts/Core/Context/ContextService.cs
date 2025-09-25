@@ -1,7 +1,7 @@
 ﻿using System;
 using Entitas;
 
-namespace BartekNizio.EntitasSystem
+namespace BartekNizio.Unity.Template.Entitas.Core
 {
 	public class ContextService
 	{

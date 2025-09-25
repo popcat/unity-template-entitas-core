@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace BartekNizio.EntitasSystem
+namespace BartekNizio.Unity.Template.Entitas.Core
 {
 	public class BootManager : MonoBehaviour
 	{

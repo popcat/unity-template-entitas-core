@@ -1,7 +1,7 @@
 ﻿using Zenject;
 using System.Collections;
 
-namespace BartekNizio.EntitasSystem
+namespace BartekNizio.Unity.Template.Entitas.Core
 {
 	public class InjectableFeature : Feature
 	{

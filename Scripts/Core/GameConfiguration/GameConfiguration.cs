@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace BartekNizio.EntitasSystem
+namespace BartekNizio.Unity.Template.Entitas.Core
 {
 	[CreateAssetMenu(fileName = "Game Configuration", menuName = "Config/Game Configuration")]
 	public class GameConfiguration : ScriptableObject

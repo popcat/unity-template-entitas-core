@@ -2,7 +2,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace BartekNizio.EntitasSystem
+namespace BartekNizio.Unity.Template.Entitas.Core
 {
 	public class UpdateManager : MonoBehaviour
 	{

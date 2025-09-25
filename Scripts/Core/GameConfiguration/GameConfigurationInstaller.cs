@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Zenject;
 
-namespace BartekNizio.EntitasSystem
+namespace BartekNizio.Unity.Template.Entitas.Core
 {
 	[CreateAssetMenu(menuName = "Config/Installer/Game Configuration Installer")]
 	public class GameConfigurationInstaller : ScriptableObjectInstaller<GameConfigurationInstaller>
